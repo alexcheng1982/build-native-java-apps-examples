@@ -1,0 +1,4 @@
+native-image -H:Name=build-time-reflection \
+  -H:Class=io.vividcode.graalvm.reflection.BuildTimeReflection \
+  --no-fallback \
+  --initialize-at-build-time=io.vividcode.graalvm.reflection.BuildTimeReflection

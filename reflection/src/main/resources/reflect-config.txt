@@ -1,0 +1,11 @@
+[
+  {
+    "name": "java.lang.String",
+    "methods": [
+      {
+        "name": "toUpperCase",
+        "parameterTypes": []
+      }
+    ]
+  }
+]

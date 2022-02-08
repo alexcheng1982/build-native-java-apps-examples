@@ -1,0 +1,3 @@
+run=io.vividcode.graalvm.features.command.CommandFactories$RunCommandFactory
+think=io.vividcode.graalvm.features.command.CommandFactories$ThinkCommandFactory
+sleep=io.vividcode.graalvm.features.command.CommandFactories$SleepCommandFactory

@@ -1,0 +1,3 @@
+native-image -cp . -H:Class=io.vividcode.graalvm.features.app.Simple \
+  -H:Name=app \
+  --features=io.vividcode.graalvm.features.examples.NativeImagePathOutputFeature

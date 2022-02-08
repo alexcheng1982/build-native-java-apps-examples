@@ -1,0 +1,3 @@
+native-image -H:Name=guess-number \
+  --initialize-at-build-time=io.vividcode.graalvm.initialization.GuessNumber \
+  io.vividcode.graalvm.initialization.GuessNumber
