@@ -1,0 +1,11 @@
+{
+  "bundles": [
+    {
+      "name":"AppResource",
+      "locales": [
+        "en",
+        "zh-CN"
+      ]
+    }
+  ]
+}
